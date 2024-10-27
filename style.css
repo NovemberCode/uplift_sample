@@ -7,9 +7,9 @@
 body {
     font-family: "Roboto", sans-serif;
     background-image: radial-gradient(
-        rgb(2, 161, 167),
-        rgb(43, 96, 141),
-        rgb(109,107, 245)
+        #8C522D,
+        #903500,
+        #D3B49F
     );
     background-repeat: repeat;
     height: 100vh;
@@ -27,11 +27,11 @@ main {
 }
 
 h1 {
-    background-color: #9051A8;
+    background-color: #82713D;
     color: #F1F5F9;
     text-align: center;
     border-radius: 10px 10px 0 0;
-    border-bottom: 5px solid #5365A4;
+    border-bottom: 5px solid #BD9774;
     padding: 5px 0;
     font-size: 50px;
 }
@@ -52,12 +52,12 @@ div {
 }
 
 div button {
-    background-color: #9051A8;
+    background-color: #82713D;
     color: #F1F5F9;
     width: 50%;
     font-size: 20px;
     border: 0;
-    border-bottom: 5px solid #5365A4;
+    border-bottom: 5px solid #BD9774;
     padding: 10px;
     margin: 0 10px;
     cursor: pointer;
